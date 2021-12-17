@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fadg20
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Data Science, AI and Cyberscurity.
+- 📫 How to reach me email: diazgallardof@gmail.com.
